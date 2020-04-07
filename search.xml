@@ -20,7 +20,6 @@
     <content><![CDATA[<p>测试图片的功能</p>
 <a id="more"></a>
 
-<p><img src="test/header.jpg" alt=""></p>
-]]></content>
+<img src="/2020/04/07/test/header.jpg" class="" title="this is a picture">]]></content>
   </entry>
 </search>
